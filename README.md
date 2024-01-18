@@ -1,19 +1,3 @@
-# about me
-
-As a student programmer, my goal is to continue learning and gain practical experience in the field.
-
-I want to improve my skills and become proficient in a variety of programming languages and technologies. 
-
-I also want to build a portfolio of projects that showcase my abilities and help me stand out in the job market.
-
-In addition, I have a strong interest in open-source software and the benefits it can provide. 
-
-I want to contribute to open-source projects and help improve existing software. 
-
-I believe that working on open-source projects is a great way to learn, collaborate with others, and give back to the community. 
-
-I'm eager to join a team of like-minded individuals who share my passion for open-source development and make a positive impact on the world.
-
 [Oracle Cloud Infrastructure Foundations 2022 Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=83F9AF834EA261001F4BF5EC10D946C4BC0DEE17D2EFF4D5C2197D8057E6F03D)
 
 [ORACLE MASTER Silver SQL 2019 (Oracle Database SQL Certified Associate) - JPN](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C4B970B8D2CBA28AD6FEC31BFF6A3950E52E04DB79CF6C0E93761CEA227A4014)
